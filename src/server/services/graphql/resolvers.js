@@ -14,8 +14,8 @@ const GraphQLUpload = require('graphql-upload/GraphQLUpload.js')
 const s3 = new aws.S3({
   signatureVersion: 'v4',
   region: 'us-west-2',
-  accessKeyId: 'AKIARMPUPDMZNTUIJ2Q6',
-	secretAccessKey: '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'
+  accessKeyId: '
+	secretAccessKey: 
 
 
 
